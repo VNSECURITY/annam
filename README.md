@@ -1,6 +1,6 @@
 # An Nam dai toc trinh duyet
 
-For svattt, not safe for using.
+For svattt, not safe for use.
 
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
